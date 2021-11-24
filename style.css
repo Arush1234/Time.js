@@ -1,0 +1,35 @@
+.timer{
+font-family: 'Times New Roman', Times, serif;
+color: grey; 
+background-color: rgb(28, 36, 240); 
+font-size: 200px; 
+border-radius: 25%; 
+
+
+}
+.text{
+text-align: center;
+
+
+}
+
+.boundry{
+
+display: inline-block; 
+
+
+
+}
+body{
+background-color: grey; 
+
+
+}
+
+.color{
+height: 50px;
+width: 200px;
+background-color: green; 
+margin-bottom: 50px; 
+
+}
